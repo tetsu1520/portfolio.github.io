@@ -1,6 +1,6 @@
 .top-wrapper{
     color: white;
-    background-image: url(/png/macbook1997_2_V.jpg);
+    background-image: url(macbook1997_2_V.jpg);
     background-size: cover;
     height: 600px;
     text-align: center;
@@ -67,7 +67,7 @@
         padding-top: 30px;
     }
     .skills-wrapper{
-        background-image: url(/png/washi.jpg);
+        background-image: url(washi.jpg);
         width: auto;
         color:black;
         margin-top: 120px;
