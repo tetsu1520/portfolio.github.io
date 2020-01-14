@@ -1,0 +1,27 @@
+/* スマートフォン向けレイアウト */
+/* ブレイクポイントをmax-width: 670pxに指定してください */
+@media(max-width:670px){
+    .hude .web{
+      width:100%;
+    }
+  }
+
+  /* header-rightクラスのdisplayをnoneに指定してください */
+  .header-right{
+    display:none;
+  }
+  
+  /* menu-iconクラスのdisplayをblockに指定してください  */
+  .menu-icon{
+    display:block;
+  }
+  .top-container{
+      font-size: 20px;
+  }
+  .aboutme-img{
+      width: auto;
+      height: auto;
+  }
+  #footer{
+      display: none;
+  }
