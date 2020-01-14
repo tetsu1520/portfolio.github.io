@@ -29,10 +29,19 @@
       padding-left: 0;
   }
   .form{
-      padding: auto 0;
+      padding-left: 0;
   }
   .twitter{
-      padding: auto 0;
+      padding-right: 0;
+  }
+  .web-icon{
+      height: 30%;
+  }
+  #skills{
+      text-align: left;
+  }
+  #aboutme{
+      text-align: right;
   }
 
 }
