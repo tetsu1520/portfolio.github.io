@@ -15,10 +15,7 @@ $(function(){
 	setTimeout(function(){
 		$('.start').fadeOut(500);
     },3500);
-    $(function(){
-        $('top-container').fadeIn('slow');
-    });
-
+    
 
 
   });
