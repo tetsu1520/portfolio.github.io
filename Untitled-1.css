@@ -1,3 +1,7 @@
+*{
+    box-sizing:border-box;
+  }
+  
 .top-wrapper{
     color: white;
     background-image: url(macbook1997_2_V.jpg);
@@ -14,6 +18,8 @@
         letter-spacing: 5px;
         font-size: 30px;
         padding-top: 90px;
+        
+
 
     }
     .subtitle{
@@ -35,7 +41,7 @@
         float: right;
         font-family: cursive;
         padding-right: 30px;
-        font-size: 30px;
+        font-size: 20px;
         padding-top: 20px;
         color: black;
         background-color: white;
@@ -93,7 +99,7 @@
     }
     .hudes{
         width: auto;
-        margin-top: 100px;
+        margin-top: 20px;
         
     }
 
@@ -115,8 +121,8 @@
     }
     .webs{
         width: auto;
-        padding-top: 17cm;
-        padding-bottom: 10cm;
+        padding-top: 2cm;
+        padding-bottom: 2cm;
         }
 
     .web{
@@ -187,7 +193,21 @@
         margin: auto 0;
     }
 
-    .start {
+   .clear{
+       clear: left;
+   } 
+
+   .menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    /* displayをnoneに指定してください */
+    display: none;
+  }
+
+  
+  .start {
 	background:black;
 	position: fixed;
 	top: 0;
@@ -207,7 +227,9 @@
 }
 
     
-    
         
+    
+    
+
     
     
